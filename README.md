@@ -30,7 +30,7 @@ For in-depth problem-solving tutorials and code explanations, subscribe to my [Y
 
 ## 🤝 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com) *(Add your LinkedIn profile here if you have one)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/must-codeq-423394268/)
 - 🌐 [YouTube](https://www.youtube.com/@CS_Mustcode)
 - 📧 Reach me via email at *(Add your email here)*
 
