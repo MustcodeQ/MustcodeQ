@@ -14,7 +14,6 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science** student curr
 - 💻 Experienced in web development with Django, React, and more.
 - 🎯 Learning backend development to expand my full-stack capabilities.
 - 🧩 Enjoy solving algorithmic challenges on platforms like LeetCode.
-- 📚 Preparing for the HSK 2 exam to enhance my Chinese language skills.
 
 ## Skills
 - **Programming Paradigms:** Object-Oriented Programming, Data Structures, Algorithms
