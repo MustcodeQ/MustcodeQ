@@ -49,6 +49,6 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science** student curr
 
 ## Connect with Me
 - LinkedIn: [Mustafa Habboul](https://www.linkedin.com/in/must-codeq-423394268/)
-- Email: mustafahabboul@example.com
+- Email: codermustafa411@gmail.com
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
