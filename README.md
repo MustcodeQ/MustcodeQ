@@ -2,39 +2,54 @@
 
 Welcome to my GitHub profile! I'm a passionate **Computer Science** student currently focusing on **Software Engineering**. I enjoy tackling challenging problems, building efficient solutions, and sharing my knowledge with the community.
 
-## 🚀 About Me
+## Table of Contents
+- [About Me](#about-me)
+- [Skills](#skills)
+- [Languages & Frameworks](#languages--frameworks)
+- [Projects](#projects)
+- [Connect with Me](#connect-with-me)
 
-- 💻 **Computer Science Student**: Pursuing my degree with a focus on software engineering and cybersecurity.
-- 🎓 **Software Engineer**: Passionate about backend development, algorithmic problem-solving, and building real-world applications.
-- 🎥 **YouTube Creator**: I run a YouTube channel called [**CS MustCode**](https://www.youtube.com/@CS_Mustcode) where I post educational videos on problem-solving, data structures, algorithms, and much more.
+## About Me
+- 🎓 Computer Science major with a focus on cyber security engineering.
+- 💻 Experienced in web development with Django, React, and more.
+- 🎯 Learning backend development to expand my full-stack capabilities.
+- 🧩 Enjoy solving algorithmic challenges on platforms like LeetCode.
+- 📚 Preparing for the HSK 2 exam to enhance my Chinese language skills.
 
-## 🌱 What I'm Currently Learning
+## Skills
+- **Programming Paradigms:** Object-Oriented Programming, Data Structures, Algorithms
+- **Frontend Development:** HTML, CSS, JavaScript, React, Vue.js
+- **Backend Development:** Django, PHP, Laravel, Python, C, C++
+- **Problem Solving:** LeetCode, Dynamic Programming, System Design
+- **Tools & Platforms:** Git, GitHub, Visual Studio Code, Linux (Debian on WSL)
 
-- Backend development with Django and Python.
-- Advanced data structures and algorithms for competitive programming.
-- Cybersecurity principles and techniques to become a future Cyber Security Engineer.
+## Languages & Frameworks
 
-## 🛠️ Technologies & Tools
+### Languages
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-- **Programming Languages**: C, C++, Python, JavaScript, HTML, CSS
-- **Frameworks & Libraries**: ReactJS, VueJS, Bootstrap, Django
-- **Other Tools**: Git, GitHub, Visual Studio Code
+### Frameworks & Libraries
+![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## 📈 GitHub Stats
+## Projects
+- **LeetCode Challenges:** Solutions to problems like 'Sudoku Solver', 'LRU Cache', and more in C and C++.
+- **Django Gym Store:** A Django-based web page for a gym products store.
+- **Robotics and AI:** Projects like disease recognition models and task reminder bots.
+- **Hash Map Implementation:** Custom algorithms in C for hash functions and data storage.
 
-Check out my GitHub repositories where I work on web development, data structures, algorithms, and competitive programming.
+## Connect with Me
+- LinkedIn: [Mustafa Habboul](https://www.linkedin.com/in/must-codeq-423394268/)
+- Email: mustafahabboul@example.com
 
-## 📺 Latest Content
-
-For in-depth problem-solving tutorials and code explanations, subscribe to my [YouTube channel](https://www.youtube.com/@CS_Mustcode). 
-
-## 🤝 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/must-codeq-423394268/)
-- 🌐 [YouTube](https://www.youtube.com/@CS_Mustcode)
-- 📧 Reach me via email at *(Add your email here)*
-
-Feel free to browse my repositories, open issues, and collaborate on projects. I'm always open to new opportunities and eager to connect with fellow developers!
-## 📈 GitHub Stats
-
-[![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MustcodeQ)](https://github.com/anuraghazra/github-readme-stats)
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
