@@ -52,3 +52,7 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science** student curr
 - Email: codermustafa411@gmail.com
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+
+## 📈 GitHub Stats
+
+[![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MustcodeQ)](https://github.com/anuraghazra/github-readme-stats)
