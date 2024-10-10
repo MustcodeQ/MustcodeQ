@@ -35,5 +35,6 @@ For in-depth problem-solving tutorials and code explanations, subscribe to my [Y
 - 📧 Reach me via email at *(Add your email here)*
 
 Feel free to browse my repositories, open issues, and collaborate on projects. I'm always open to new opportunities and eager to connect with fellow developers!
+## 📈 GitHub Stats
 
-(https://github-readme-stats.vercel.app/api?username=MustcodeQ)](https://github.com/MustcodeQ/github-readme-stats)
+[![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MustcodeQ)](https://github.com/anuraghazra/github-readme-stats)
