@@ -55,4 +55,9 @@ Feel free to explore my repositories and reach out if you have any questions or 
 
 ## 📈 GitHub Stats
 
-[![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MustcodeQ)](https://github.com/anuraghazra/github-readme-stats)
+[![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MustcodeQ&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🐍 Python Contributions
+
+![Python Contributions](https://github-readme-streak-stats.herokuapp.com/?user=MustcodeQ&theme=dark)
+
